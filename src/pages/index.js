@@ -1,3 +1,11 @@
 import React from "react"
+import Styles from '../styles/styles.sass'
 
-export default () => <div>Hello world!</div>
+const Layout = () => {
+    return (
+        <div>
+
+        </div>
+    )
+}
+export default () => Layout
